@@ -1,0 +1,31 @@
+_repo: Merkillisia-tapahtumia-b-Kertomus_73036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parmanen, Eino Into
+    alias: Parmanen, Eino I.
+    birthdate: 1879
+    deathdate: 1943
+    gutenberg_agent_id: '54338'
+    url: http://www.gutenberg.org/2009/agents/54338
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_I._Parmanen
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73036'
+language: fi
+pgterms:marc905: 20211118034900parmanen
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKustannusyhtiö Osmo, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Merkillisiä tapahtumia : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/73036
