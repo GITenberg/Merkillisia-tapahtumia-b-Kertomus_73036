@@ -1,5 +1,8 @@
 _repo: Merkillisia-tapahtumia-b-Kertomus_73036
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parmanen, Eino Into
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54338
     wikipedia: https://fi.wikipedia.org/wiki/Eino_I._Parmanen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73036#Merkillisia-tapahtumia-b-Kertomus
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
